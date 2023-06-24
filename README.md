@@ -1,4 +1,4 @@
-# DWP Coding Challenege
+# DWP Coding Challenge
 
 The additional functionality can be found in the TicketService.js file.
 
