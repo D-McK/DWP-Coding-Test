@@ -1,6 +1,6 @@
 # DWP Coding Challenge
 
-The additional functionality can be found in the TicketService.js file.
+The functionality can be found in the TicketService.js file.
 
 ## Testing
 Commands to run the test suite
